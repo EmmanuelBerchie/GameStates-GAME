@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee2ef24ab4a8784884bf64994e5bf12, type: 3}
+  m_Name: A10
+  m_EditorClassIdentifier: 
+  storyText: "You take your cue from the two men and get on your horse. Figuratively
+    of course, no one rides horses since the combustamobile was invented.\r\n\r\nYou
+    zig. You zag. You weave through the many building of the blueriver mansion. \r\n\r\nYou
+    hear a loud bang.You leap for the door and slide through on your stomach, just
+    as all hell breaks lose behind you.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 1fe8845505dc388498ed4b66e3111044, type: 2}

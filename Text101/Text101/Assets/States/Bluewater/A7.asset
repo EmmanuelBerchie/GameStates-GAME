@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee2ef24ab4a8784884bf64994e5bf12, type: 3}
+  m_Name: A7
+  m_EditorClassIdentifier: 
+  storyText: 'Good thinking, no point worrying about some random guys'' plans to
+    rob blow up the entire bluewater. I''m sure everything will be just fine. Nothing
+    at all to worry about. Plenty of time to do what you need to do.
+
+    
+
+    You
+    take quite some time, but eventually you make your way around the edge of the
+    building and see daylight.
+
+    
+
+    What! An almighty bang. And then, a deafening
+    roar....
+
+    
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: e5cb112e12441fa49aba2f79250dd774, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee2ef24ab4a8784884bf64994e5bf12, type: 3}
+  m_Name: A1- Bluewater river
+  m_EditorClassIdentifier: 
+  storyText: "Finally, I've reached the bluewater river. \r\nThugs in groups of as
+    many 10 to 15 there's too many to count . They've spotted you !!!!\r\n\r\nCould
+    i singlehandely take out these thugs surely they dont have the skills i possess.\r\n\r\nWhat
+    Should i do ? \r\n1. Take them on \r\n2. Turn back but that could set my arrival
+    time up by at least an hour."
+  nextStates:
+  - {fileID: 11400000, guid: 9eec07b1ef8261440be069dead5211a3, type: 2}
+  - {fileID: 11400000, guid: 13a7f1b30c1576b4a805419435fd07e1, type: 2}
